@@ -1,0 +1,1 @@
+This is a SpringBoot project of basic Book register project (Add, Edit, Delete) on the eclipse environment running on java application using tomcat Server ( Maven project ) and using dependencies (spring-boot- starter-web, test, devtools, data-jpa, jstl, tomcat-embed-jaspar and mysql-connector) in pox.xml file.
